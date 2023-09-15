@@ -1,2 +1,3 @@
-# GSA_python_implementation
+# GSA
 Implementation simple du GSA en python
+
